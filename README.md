@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnulfo</h1>
 <h3 align="center">A Web Developer and Mobile Developer from Colombia, currently based in Toronto, Canada</h3>
 
-- 🌱 I’m looking for **Co-Op/Internship Summer 2023**
+- 🌱 I’m looking for **Co-Op/Internship Summer 2024**
 
-- 👨‍💻 I’m currently learning **Mobile application development**
+- 👨‍💻 I’m currently learning **Web/Mobile application development**
 
 - 🍦 Fun fact **I love ice cream**
 
