@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arnulfo-s%c3%a1nchez-52b96a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnulfos%C3%A1nchez/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnulfos%c3%a1nchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnulfos%c3%a1nchez/" height="30" width="40" /></a>
 <a href="https://instagram.com/ufosanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ufosanchez" height="30" width="40" /></a>
 </p>
 <h3 align="left">Mail: n01637867@humber.ca</h3>
