@@ -28,6 +28,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=Express)
 ![Swift](https://img.shields.io/badge/Swift-black?logo=Swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=Kotlin)
+<a href="https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white" style="font-size: 30px;">![Static Badge](https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white)</a>
+
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=asp.net)
@@ -39,8 +41,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
-<a href="https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white" style="font-size: 20px;">![Static Badge](https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white)</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufosanchez&show_icons=true&locale=en&layout=compact" alt="ufosanchez" /></p>
