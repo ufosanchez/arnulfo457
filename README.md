@@ -32,7 +32,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=asp.net)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
-![MYSQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![MYSQL](https://img.shields.io/badge/-MYSQL-black?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
