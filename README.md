@@ -31,6 +31,7 @@
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=asp.net)
+![php](https://img.shields.io/badge/php-black?logo=php)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-black?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
@@ -39,6 +40,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufosanchez&show_icons=true&locale=en&layout=compact" alt="ufosanchez" /></p>
