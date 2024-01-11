@@ -28,7 +28,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=Express)
 ![Swift](https://img.shields.io/badge/Swift-black?logo=Swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=Kotlin)
-<a href="https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white" style="font-size: 30px;">![Static Badge](https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white)</a>
+<a href="https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white" style="font-size: 50px"></a>
 
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
