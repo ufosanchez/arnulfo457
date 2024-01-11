@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arnulfo</h1>
+<h1 align="center">Hi 👋, I'm Arnulfo Sánchez</h1>
 <h3 align="center">A Web Developer and Mobile Developer from Colombia, currently based in Toronto, Canada</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ufosanchez&label=Profile%20views&color=0e75b6&style=flat" alt="ufosanchez" /> </p>
 
 - 🌱 I’m looking for **Co-Op/Internship Summer 2024**
 
