@@ -20,16 +20,24 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?logo=Tailwindcss)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat&logo=SASS)
 
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=Express)
+![Swift](https://img.shields.io/badge/Swift-black?logo=Swift)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=Kotlin)
+
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=asp.net)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
+![MYSQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufosanchez&show_icons=true&locale=en&layout=compact" alt="ufosanchez" /></p>
