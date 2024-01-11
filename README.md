@@ -40,4 +40,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
+<a href="https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white" style="font-size: 20px;">![Static Badge](https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white)</a>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufosanchez&show_icons=true&locale=en&layout=compact" alt="ufosanchez" /></p>
